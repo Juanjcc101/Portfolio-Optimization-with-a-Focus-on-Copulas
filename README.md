@@ -1,5 +1,5 @@
 # Portfolio Optimization with a Focus on Copulas
-Juan Jose Castrillon, Felipe Gomez<br>
+For: Juan Jose Castrillon, Felipe Gomez<br>
 The project covers a comprehensive methodology, starting from selecting the portfolio and assets to optimize, deciding whether to maximize performance or minimize risk (or both), and then searching for the copula that best represents the assets' dependency. The chosen copula is used for simulations, followed by the implementation of Markowitz portfolio optimization to determine the optimal asset weights for the objective function, incorporating constraints related to weights and non-negativity.
 
 Data for the project was derived from a portfolio by Kenneth R. French, focusing on the assets Mkt-Rf and SMB, with a sample size of 1000 data points representing returns. The project explored Gaussian copulas, which represent dependency structures for multivariate normal distributions, to model the relationships between variables.
